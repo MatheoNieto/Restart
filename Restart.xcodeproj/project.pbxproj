@@ -61,13 +61,13 @@
 			isa = PBXGroup;
 			children = (
 				C25898B529F1E17200DB8606 /* Info.plist */,
-				C25898B429F1DF4600DB8606 /* Utilities */,
-				C25898B329F1DEF900DB8606 /* Views */,
-				C25898B229F1DEEF00DB8606 /* Screens */,
-				C25898B129F1D5F300DB8606 /* sounds */,
 				C258989F29F1D3FF00DB8606 /* RestartApp.swift */,
 				C25898A329F1D40000DB8606 /* Assets.xcassets */,
 				C25898A529F1D40000DB8606 /* Preview Content */,
+				C25898B229F1DEEF00DB8606 /* Screens */,
+				C25898B129F1D5F300DB8606 /* sounds */,
+				C25898B429F1DF4600DB8606 /* Utilities */,
+				C25898B329F1DEF900DB8606 /* Views */,
 			);
 			path = Restart;
 			sourceTree = "<group>";
